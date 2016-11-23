@@ -8,4 +8,7 @@ checker.check('king').then(function(result){
 	console.log("king", result);
 });
 
+checker.check('tester').then(function(result){
+	console.log("tester", result);
+});
 
